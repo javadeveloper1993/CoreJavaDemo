@@ -18,3 +18,8 @@ package com.example.methodoverloading;
 // 1> Static Binding 
 // 2> Static Polymorphisam
 // 3> Why Method Overloadin Called Static Plymorphisam
+
+// Question 
+
+// 1> Why method overloading is not consider in method return type
+// Ans ::-stackoverflow.com/questions/442026/function-overloading-by-return-type
