@@ -8,6 +8,11 @@ public class Constructor_Parameter {
 		Car car1 = new Car();
 		Car car2 = new Car("Maruti");
 		Car car3 = new Car("Van", "Black");
+		
+		System.out.println(Constructor_Parameter.class.getClassLoader());
+		System.out.println(Constructor_Parameter.class.getCanonicalName());
+		System.out.println(Constructor_Parameter.class.getProtectionDomain());
+		System.out.println(Constructor_Parameter.class.getPackage());
 	}
 }
 
