@@ -1,4 +1,4 @@
-package com.example.acessmodifer_class;
+package com.example.accessmofier.Class;
 
 abstract public class AbstractClass1 {
 

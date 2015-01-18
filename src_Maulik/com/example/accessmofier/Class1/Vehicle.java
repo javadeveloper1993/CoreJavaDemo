@@ -1,7 +1,7 @@
-package com.example.acessmodifer_class_1;
+package com.example.accessmofier.Class1;
 
-import com.example.acessmodifer_class.Bike;
-import com.example.acessmodifer_class.Car;
+import com.example.accessmofier.Class.Bike;
+import com.example.accessmofier.Class.Car;
 
 /**
  * @author Maulik
