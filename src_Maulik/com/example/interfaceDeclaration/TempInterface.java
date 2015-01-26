@@ -16,5 +16,5 @@ interface TempInterface {
 
 // 1> Interface : By Default This is Public abstract
 // 2> Constant :- By Default This is Public static final
-	// you cant change value for interface Constant
+// you cant change value for interface Constant
 // 3> Method :- By Default This is Public abstract
