@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src_Maulik"/>
+	<classpathentry kind="src" path="src_Maulik_Chapter1"/>
 	<classpathentry kind="src" path="src_Rahul"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>

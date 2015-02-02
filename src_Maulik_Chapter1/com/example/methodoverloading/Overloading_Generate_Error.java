@@ -23,14 +23,9 @@ class OverloadingClass_Generate_Error {
 		return no;
 	}
 
-	double display(double no, int No) {
+	double display(int no, double No) {
 		System.out.println("This is Int Argument Method..!!! Value Is : " + no);
-		return No;
-	}
-
-	double display(double no1, int No1) {
-		System.out.println("This is Int Argument Method..!!! Value Is : " + no);
-		return No;
+		return no;
 	}
 
 	void display(String name) {
